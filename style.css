@@ -50,7 +50,7 @@ img{
 .card{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 2em;
+    gap: 1em;
     margin-bottom: 0.5em;
     background: rgb(168, 101, 231);
     border-radius: 100px;
